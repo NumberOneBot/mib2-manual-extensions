@@ -1,6 +1,6 @@
 # Audi MIB2 High Owners Manual
 
-The owners manuals on the CD were usually supplied in a bundle with paper version for all European versions of the MQB and MLB-evo Audi cars prior to 2019. They are intended for loading to MIB2 and are available in the carousel menu of car settings.
+Owners manuals on the CD were usually bundled with paper version for all European versions of the MQB and MLB-evo Audi cars prior to 2020. They are intended for loading to MIB2 and are available in the carousel menu of car settings.
 
 The list of known manuals is available [here](https://www.drive2.ru/l/605527992524868736/) (Russian), [Google translated page](https://www-drive2-ru.translate.goog/l/605527992524868736/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru) (English).
 
