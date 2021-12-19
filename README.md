@@ -2,9 +2,9 @@
 
 The owners manuals on the CD were usually supplied in a bundle with paper version for all European versions of the MQB and MLB-evo Audi cars prior to 2019. They are intended for loading to MIB2 and are available in the carousel menu of car settings.
 
-![MIB2 High](https://github.com/NumberOneBot/mib2-manual-extensions/blob/main/ylLG4Ot0GGw54UjN_Eg3fo1Goq4-1920.jpg)
-
 The list of known manuals is available [here](https://www.drive2.ru/l/605527992524868736/) (russian), [Google translated page](https://www-drive2-ru.translate.goog/l/605527992524868736/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru) (english).
+
+![MIB2 High](https://github.com/NumberOneBot/mib2-manual-extensions/blob/main/ylLG4Ot0GGw54UjN_Eg3fo1Goq4-1920.jpg)
 
 This repository is meant to research the capabilities of built-in browser of the Audi's MIB2 High infotainment systems. 
 They are factory installed in: TT 8S, A3 8V, A4/A5 8W, Q5 FY, Q7 4M cars.
