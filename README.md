@@ -1,13 +1,12 @@
 # Audi MIB2 High Owners Manual
 
-Owners manuals on the CD were usually bundled with paper version for all European versions of the MQB and MLB-evo Audi cars prior to 2020. They are intended for loading to MIB2 and are available in the carousel menu of car settings. Onboard manual is a set of HTML pages with a few scripts packed in .ISO containers by language. 
+Owners manuals on the CD were usually bundled with paper version for all European versions of the MQB and MLB-evo Audi cars prior to 2020. They are available for: TT 8S, A3 8V, A4/A5 8W, Q5 FY, Q7 4M. Manuals are intended for loading to MIB2 and are shown in the carousel menu of car settings. 
 
-The list of known manuals is available [here](https://www.drive2.ru/l/605527992524868736/) (Russian), [Google translated page](https://www-drive2-ru.translate.goog/l/605527992524868736/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru) (English).
+Onboard manual is a set of HTML pages with a few scripts packed in .ISO containers by language. The list of known manuals is available [here](https://www.drive2.ru/l/605527992524868736/) (Russian), [Google translated page](https://www-drive2-ru.translate.goog/l/605527992524868736/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru) (English).
 
 ![MIB2 High](https://github.com/NumberOneBot/mib2-manual-extensions/blob/main/ylLG4Ot0GGw54UjN_Eg3fo1Goq4-1920.jpg)
 
-This repository is meant to research the capabilities of built-in browser of the Audi's MIB2 High infotainment systems. 
-They are factory installed in: TT 8S, A3 8V, A4/A5 8W, Q5 FY, Q7 4M cars.
+This repository is meant to research the capabilities of built-in browser of the Audi's MIB2 High infotainment systems used to show those manuals. 
 
 ## Contributing
 
